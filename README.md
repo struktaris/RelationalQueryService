@@ -1,6 +1,6 @@
 # RelationalQueryService
 
-Connect the [RelationalQuery](https://github.com/stefanspringer1/RelationalQuery) format to a PostgreSQL database using an OpenAPI definition.
+Connect the [RelationalQuery](https://github.com/struktaris/RelationalQuery) format to a PostgreSQL database using an OpenAPI definition.
 
 The application needs to be started with an API key, optionally the allowed table names, the allowed field names, or the maximal number of conditions in a query can be specified.
 
